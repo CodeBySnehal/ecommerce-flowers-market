@@ -3,10 +3,8 @@ An elegant e-commerce platform for selling and managing a wide variety of flower
 
 🚀 Features
 User-Friendly Interface: A clean and intuitive design that enhances the shopping experience.
+
 Product Management:
-Display of flowers by category
-Product descriptions, prices, and quantity.
-Add, update, and remove items.
-Automatic price calculations.
-View and manage orders.
+Display of flowers by category. Product descriptions, prices, and quantity. Add, update, and remove items. Automatic price calculations. View and manage orders.
+
 optimized for desktop
